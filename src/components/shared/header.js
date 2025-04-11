@@ -11,7 +11,7 @@ const Header = () => {
             <Nav className="me-auto">
             <Nav.Link href="/about">About</Nav.Link>
             <Nav.Link href="/gallery">Gallery</Nav.Link>
-            <Nav.Link href="https://www.youtube.com/watch?v=oHg5SJYRHA0" target="_blank">Book</Nav.Link>
+            <Nav.Link href="https://www.vagaro.com/us04/melcestyles" target="_blank">Book</Nav.Link>
             <Nav.Link href="https://www.instagram.com/melce_styles" target="_blank">
               <InstaIcon />
             </Nav.Link>
